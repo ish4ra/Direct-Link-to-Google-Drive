@@ -49,7 +49,7 @@
 <h4><b>2.If you try to download Setup file twice then it will show "Requirements already satisfied" as an Output which is Normal and will not cause any problem.</b></h4>
 <h4><b>3.Always type the original format with custom file name.</b></h4>
 <h2> 🔐 Safe or Not? ✅</h2>
-<h4><b> 1.Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Torrent-to-GoogleDrive">Original code</a>.🔒</b></h4>
+<h4><b> 1.Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Direct-Link-to-Google-Drive">Original code</a>.🔒</b></h4>
 <h4><b> 2.This code do not share even a single piece of data to any third party source and not create any log of that!🔑</b></h4>
 <h4><b> 3.Do not trust any other copy of this Code.📚</b></h4>
 <h2> 🤔 Why Use This?</h2>
