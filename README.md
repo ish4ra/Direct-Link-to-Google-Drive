@@ -43,7 +43,7 @@
 <h4><b>3.File_name.format: Replace From custom file name you want to give and also write its original format like (.txt/.mkv/.mp3/.mp4/.pdf/.json/.iso).</b></h4>
 <h4><b>4.URL HERE: Replace with the Direct Download Link.</b></h4>
 <h2>📑Packages Used</h2>
-<h4>1.RaR Packages for Extraction.(Official)</h4>
+<h4>1.RaR Package for Extraction.(Official)</h4>
 <h2>🎯Points to be Remembered🎯</h2>
 <h4><b>1.You can download Unlimited Multiple Links at a time.</b></h4>
 <h4><b>2.If you try to download Setup file twice then it will show "Requirements already satisfied" as an Output which is Normal and will not cause any problem.</b></h4>
