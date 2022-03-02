@@ -1,4 +1,4 @@
-# Direct Link to Google Drive
+# Direct Link to Google Drive (Advanced!🔥)
 <p><b>The Most Advanced yet Simple Google Colab Notebook to Download Files from Direct Link to Google Drive.</b></p>
 <h2>🆕What's New?🆕</h2>
 <h4><b>1.Download with Custom Name!🤩</b></h4>
