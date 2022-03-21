@@ -19,9 +19,8 @@
 <p><b><i>❗However if you do this method twice then it will show "Requirements already satisfied" as an Output which is Normal and will not cause any problem❗</i></b></p>
 <h4><b>5.Now, if you want to save single/multiple links in your My Drive then you can directly run the code as shown and it will ask you to Enter the Direct Download Link! Just type it and press ENTER key, now either you can type as many links as you want or directly type Exit and hit Enter to directly starts Downloading process.If the Downloaded file is in .zip or .rar then Program will also ask to choose to extract it or not!</b></h4>
 <img src="Img/5.png" alt="5">
-<h4><b>6.While if you want to download single/multiple links in Shared Drive, then you have to Enter exact Correct name of Shared Drive in the Code! To do that click "Show Code" option and Enter the name of your Shared Drive as shown in the Image.The Shared Drive name entered should be exist in the Account you connected previously in STEP 1.</b></h4>
+<h4><b>6.While if you want to download single/multiple links in Shared Drive, then just replace the "Shared Drive Name" in the given Input Field as shown in the Image.The Shared Drive name entered should be exist in the Account you connected previously in STEP 1.</b></h4>
 <img src="Img/6.png" alt="6">
-<img src="Img/7.png" alt="7">
 <h4><b>After Entering the Shared Drive Name, Simply run the code and  Enter Direct Download Link</b></h4>
 <h2>🪄Download with Custom Name</h2>
 <h4><b>1.To Download File to My Drive with custom name, Replace "URL HERE" with Direct Download Link and "file_name.format" from custom file name you want to give and also write its original format like (.txt/.mkv/.mp3/.mp4/.pdf/.json/.iso) as shown in the Image</b></h4>
